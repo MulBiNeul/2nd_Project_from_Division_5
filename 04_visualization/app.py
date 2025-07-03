@@ -112,6 +112,6 @@ with col2:
 # ───────── 강조 문구 ─────────
 st.markdown("---")
 st.success("👈 왼쪽 사이드바에서 원하는 분석 페이지를 선택해 주세요.")
-st.markdown(f"<small>© {datetime.now().year} ThemeStock AI • Division 5</small>", unsafe_allow_html=True)
+st.markdown(f"<small>© {datetime.now().year} ESTCamp 2nd project Team 5</small>", unsafe_allow_html=True)
 
 # streamlit run 2nd_Project_from_Division_5/04_visualization/app.py
