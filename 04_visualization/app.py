@@ -1,3 +1,5 @@
+# streamlit run 2nd_Project_from_Division_5/04_visualization/app.py
+
 # app.py
 import streamlit as st
 from datetime import datetime
