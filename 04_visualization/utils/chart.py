@@ -22,7 +22,7 @@ else:  # Linux
 
 rcParams["axes.unicode_minus"] = False
 
-
+# ───────── ChartGenerator 정의 ─────────
 class ChartGenerator:
     def __init__(self, keyword_df: pd.DataFrame, article_df: pd.DataFrame, price_dir: str):
         self.keyword_df = keyword_df
